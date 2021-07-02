@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
     s.source       = { :git => "https://github.com/blendtale/sdk-test-repo.git", :tag => "#{s.version}" }
     # change the source location
 
-    s.vendored_frameworks = 'Frameworks/JitsiMeetSDK.xcframework', 'Frameworks/WebRTC.xcframework'
+    s.vendored_frameworks = 'Frameworks/DyteSdk.xcframework', 'Frameworks/WebRTC.xcframework'
     s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
     s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 end 
