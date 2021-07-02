@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
     # change the source location
 
     s.vendored_frameworks = 'Frameworks/DyteSdk.xcframework', 'Frameworks/WebRTC.xcframework'
-    s.resources      = "Frameworks/DyteSdk.xcframework/*.ttf"
+    s.resources      = "Fonts/*.ttf"
     s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
     s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 end 
