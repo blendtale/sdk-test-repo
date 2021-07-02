@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
     s.platforms    = { :ios => "11.0" }
     # s.source       = { :http => "file:/Users/rohitbhatia/Desktop/dyte-mobile-client/sdk-out/", :type => "zip"}
     # change the source location
-    s.source       = { :git => "https://github.com/blendtale/sdk-test-repo", :tag => "#{s.version}" }
+    s.source       = { :git => "https://github.com/blendtale/sdk-test-repo.git", :tag => "#{s.version}" }
     # change the source location
 
     s.vendored_frameworks = 'Frameworks/JitsiMeetSDK.xcframework', 'Frameworks/WebRTC.xcframework'
