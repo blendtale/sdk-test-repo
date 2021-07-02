@@ -37,45 +37,9 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AntDesign.ttf</key>
-		<data>
-		TneGhDkoD7Q01Gl8e5EScUBsgfM=
-		</data>
 		<key>Entypo.ttf</key>
 		<data>
 		R4cKZ91Qhxdl95nKqX2ochnuR8U=
-		</data>
-		<key>EvilIcons.ttf</key>
-		<data>
-		kdN36jz0dJCyVsLtCBcEp9q9rgw=
-		</data>
-		<key>Feather.ttf</key>
-		<data>
-		Um4D6mimHEpnpwsB17NF6rNJdn0=
-		</data>
-		<key>FontAwesome.ttf</key>
-		<data>
-		E7HqtlqYPHpzvHmXxHnWaUP3xss=
-		</data>
-		<key>FontAwesome5_Brands.ttf</key>
-		<data>
-		Zshu39E+Y+Dpgc6FMzXCi8LSDOw=
-		</data>
-		<key>FontAwesome5_Regular.ttf</key>
-		<data>
-		APVp99isJJekOyXcTTsyITvOoxs=
-		</data>
-		<key>FontAwesome5_Solid.ttf</key>
-		<data>
-		/483360QV5a9kk0NsNN6T/JSYYw=
-		</data>
-		<key>Fontisto.ttf</key>
-		<data>
-		wJCj7Jaj8bubYVwvPyBM4Nzc28M=
-		</data>
-		<key>Foundation.ttf</key>
-		<data>
-		SyvObHkkk6SlcWtv7C2+/olJLD8=
 		</data>
 		<key>Headers/Dyte.h</key>
 		<data>
@@ -105,10 +69,6 @@
 		<data>
 		tSgfv6QxKavD5BLdk4z88Ld96Zk=
 		</data>
-		<key>MaterialCommunityIcons.ttf</key>
-		<data>
-		gKQx1tSYYdZVAJ6UkUCSgtJVlZE=
-		</data>
 		<key>MaterialIcons.ttf</key>
 		<data>
 		GUOAPWUnUMjsYEFfHldAHHDnLSU=
@@ -123,7 +83,7 @@
 		</data>
 		<key>Modules/DyteSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		dkPpMl4Hc2sLTeIM3kkLIMMIPzY=
+		t+0mXQSf+2A1F4tLumltbLUSzPQ=
 		</data>
 		<key>Modules/DyteSdk.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -135,7 +95,7 @@
 		</data>
 		<key>Modules/DyteSdk.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		dkPpMl4Hc2sLTeIM3kkLIMMIPzY=
+		t+0mXQSf+2A1F4tLumltbLUSzPQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -144,14 +104,6 @@
 		<key>Octicons.ttf</key>
 		<data>
 		KIdYdEE1A7zAgQ6ipE3BuDEsZlo=
-		</data>
-		<key>SimpleLineIcons.ttf</key>
-		<data>
-		n/uBpaEREuKS8swyPphIa61ZdZk=
-		</data>
-		<key>Zocial.ttf</key>
-		<data>
-		C9pZx7zT05J94EfgkYdaRCi/0as=
 		</data>
 		<key>assets/app.json</key>
 		<data>
@@ -263,74 +215,11 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>AntDesign.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			eVXKFBJ7MEEsEU6xPP1wK12rJl/rGIDRaV1zyqgkzeE=
-			</data>
-		</dict>
 		<key>Entypo.ttf</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			3QhJoVkfiNp5N7I/kiQYpc7FTgdeCePMyo/rYgFvqoI=
-			</data>
-		</dict>
-		<key>EvilIcons.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			pcrrTTlcXjLx1aMKyzgq68Zk8brf0UkxmQfyIV5OPiY=
-			</data>
-		</dict>
-		<key>Feather.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			RtQXlhv1OBMGa9LExQGx+R+SVg01HG18MeJ9xp7A7cc=
-			</data>
-		</dict>
-		<key>FontAwesome.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qljzPyOaD7AvXHpsRcBD16msmgkzNYBmlOzW1O3A1qg=
-			</data>
-		</dict>
-		<key>FontAwesome5_Brands.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			oMFFOCrP5Zdn0Uh9ZQXzSWZbaFwohc2RtiHRQaKSsPg=
-			</data>
-		</dict>
-		<key>FontAwesome5_Regular.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8yuUopBg3+wMeXod/hETV+sdaC8aykrEuVzw9MPiv6k=
-			</data>
-		</dict>
-		<key>FontAwesome5_Solid.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Ix1ozvvGhG+3jK/KhGdAGk83HiJkGGYuiQDj1SrcAKs=
-			</data>
-		</dict>
-		<key>Fontisto.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			lNq58dWxPqB2nRJKLaDQJDPzuZ1t6loHwERqdxWBAMA=
-			</data>
-		</dict>
-		<key>Foundation.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			fh3QPdTOkLZYBSVUzXRZ3xZxZxc4mlUvpMbVal+JM+Y=
 			</data>
 		</dict>
 		<key>Headers/Dyte.h</key>
@@ -375,13 +264,6 @@
 			7rACslkR31LsyqT1swN3jtf0ipsHhSYwVR6fFcxwnzM=
 			</data>
 		</dict>
-		<key>MaterialCommunityIcons.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			biEyi7cPCdqSjAM95zaIItliUKHM0qFqb0fedqPMYb0=
-			</data>
-		</dict>
 		<key>MaterialIcons.ttf</key>
 		<dict>
 			<key>hash2</key>
@@ -407,7 +289,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hDY98E78OmKzZXtRD4KXlMrOlyrKFFWhwq57cTaZMWo=
+			b/JkOyKMLx4oYxvxqaCMST4Rmd2OGa5HW6H1wRVvJcM=
 			</data>
 		</dict>
 		<key>Modules/DyteSdk.swiftmodule/x86_64.swiftdoc</key>
@@ -428,7 +310,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hDY98E78OmKzZXtRD4KXlMrOlyrKFFWhwq57cTaZMWo=
+			b/JkOyKMLx4oYxvxqaCMST4Rmd2OGa5HW6H1wRVvJcM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -443,20 +325,6 @@
 			<key>hash2</key>
 			<data>
 			ua3cE7d8ZyDNSM0Y8PSoyuWJsbkQNjDCSd5gq3Lf1r4=
-			</data>
-		</dict>
-		<key>SimpleLineIcons.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			P1Ad2wXHCCm7tRz+nKn/9X854GBFfCV7PM8l33Z/CHA=
-			</data>
-		</dict>
-		<key>Zocial.ttf</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			17EKHr4YMOWi8I9JA7moDiwZEsDdL3O5P88r+DIhZgI=
 			</data>
 		</dict>
 		<key>assets/app.json</key>
