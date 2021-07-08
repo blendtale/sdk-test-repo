@@ -16,7 +16,6 @@
 @property(nonatomic, assign, readwrite) BOOL showSetupScreen;
 @property (nonatomic, readwrite) NSNumber *width;
 @property (nonatomic, readwrite) NSNumber *height;
-
-- (NSMutableDictionary *_Nonnull)configProperties;
++ (instancetype _Nonnull)sharedInstance;
 
 @end

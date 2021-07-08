@@ -6,12 +6,11 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "DyteMeetingConfig.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
 @interface DyteMeetingView : UIView
-- (void) setPropsAndRenderView:(NSDictionary *_Nonnull)config;
+- (void)renderView;
 @end
 
 NS_ASSUME_NONNULL_END
